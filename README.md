@@ -27,12 +27,12 @@
 As we can see there is not much overlapping between the two algorithms. This is because some pages having high page rank are irrelevant to the query.
 
 
-Queries					    Overlap
-NATO	         				2
-Dow Jones					    0
-Rio Olympics				  0
-Pokemon Go				    0
-California Wild Fires	2
-Donald Trump				  1
-Harry Potter					0
-Brazil							  3
+Queries					    Overlap <br>
+NATO	         				2<br>
+Dow Jones					    0<br>
+Rio Olympics				  0<br>
+Pokemon Go				    0<br>
+California Wild Fires	2<br>
+Donald Trump				  1<br>
+Harry Potter					0<br>
+Brazil							  3<br>
